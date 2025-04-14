@@ -1,5 +1,5 @@
-<h1>Jogo do numero secreto</h1>
+<h1 align="center"> Jogo do numero secreto </h1>
 
-<h2>sobre</h2>
+<h2 align="center">sobre</h2>
 
-<p>Projeto feito no cursos de logica de progamação da Alura</p>
+<p align="center">Projeto feito no cursos de logica de progamação da Alura</p>
